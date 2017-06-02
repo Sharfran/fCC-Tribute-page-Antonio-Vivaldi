@@ -1,12 +1,16 @@
-<body style="background-color: powderblue;">
-# Johann Pachelbel
-A brilliant composer
+<style>
+body {background-color: powderblue;}
+h2 {text-align: center;}
+li {text-align: center;}
+
+</style>
+<body>
+<h1 style="text-align: center;">  Johann Pachelbel </h1>
+<h2 style="text-align: center;"> A brilliant composer<h2>
 
 <img src="https://www.kfd.pl/uploads/profile/photo-161756.jpg?_r=1374572713" alt="picture of Johann Pachelbel" width="300" height="400">
-<h2> Here is a timeline for Johann Pachelbel's music-filled life:</h2>
 
-<li style="text-align: center;">
-<p style="text-align: center;">
+<h3> Here is a timeline for Johann Pachelbel's music-filled life:</h3>
 <ul>
 <li> 1653 -Johann Pachelbel was born into a middle class family in Nuremberg.</li>
 <li> 1669 - After graduating from school, he entered Universität Altdorf (University of Altdorf) and was appointed an organist at Church of Saint Lorenz.</li>
@@ -22,10 +26,10 @@ A brilliant composer
 <li> 1695 - He had become internationally famous and also beame the organist at the St. Sebaldus Church in Nuremberg.</li>
 <li> 1706 - Pachelbell dies at the age of 52. </li>
 </ul>
-</li>
-  
-<p> <i><pre><q>Wisdom is found only in truth.</q>
--Johann Pachelbel </pre> </i> </p>
 
-<p>If you want to learn more about this incredible musician, you can find information about him on: <a href="https://en.wikipedia.org/wiki/Johann_Pachelbel">Wikipedia</a></p>
+  
+<p style="text-align: center;"> <q>Wisdom is found only in truth.</q>
+-Johann Pachelbel </p>
+
+<p style="text-align: center;">If you want to learn more about this incredible musician, you can find information about him on: <a href="https://en.wikipedia.org/wiki/Johann_Pachelbel">Wikipedia</a></p>
 </body>
