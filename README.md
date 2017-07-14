@@ -1,14 +1,9 @@
-<style>
-body {background-color: powderblue;}
-h2 {text-align: center;}
-li {text-align: center;}
+<body style="background-color:powderblue;">
 
-</style>
-<body>
-<h1 style="text-align: center;">  Johann Pachelbel </h1>
-<h2 style="text-align: center;"> A brilliant composer<h2>
+<h1 style="text-align:center; color:blue; font family:verdana;">  Johann Pachelbel </h1>
+<h2 style="text-align:center;"> A brilliant composer<h2>
 
-<img src="https://www.kfd.pl/uploads/profile/photo-161756.jpg?_r=1374572713" alt="picture of Johann Pachelbel" width="300" height="400">
+<img src="https://www.kfd.pl/uploads/profile/photo-161756.jpg?_r=1374572713" alt="picture of Johann Pachelbel" width="400" height="500">
 
 <h3> Here is a timeline for Johann Pachelbel's music-filled life:</h3>
 <ul>
@@ -32,4 +27,7 @@ li {text-align: center;}
 -Johann Pachelbel </p>
 
 <p style="text-align: center;">If you want to learn more about this incredible musician, you can find information about him on: <a href="https://en.wikipedia.org/wiki/Johann_Pachelbel">Wikipedia</a></p>
+
 </body>
+
+
